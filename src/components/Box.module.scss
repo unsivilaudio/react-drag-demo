@@ -1,0 +1,10 @@
+.Box {
+    position: relative;
+    width: 25rem;
+    height: 25rem;
+    border: 1px solid #1d1d1d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}

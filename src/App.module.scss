@@ -1,0 +1,21 @@
+.App {
+    width: 100%;
+    max-width: 90rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+
+    .Hero {
+        text-align: center;
+        font-size: 4.5rem;
+        font-weight: 300;
+        padding: 2rem;
+    }
+
+    .Container {
+        width: 100%;
+        margin-top: 3rem;
+        display: flex;
+        justify-content: space-between;
+        gap: 3rem;
+    }
+}
